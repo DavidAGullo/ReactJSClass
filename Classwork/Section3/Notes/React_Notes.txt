@@ -1,0 +1,11 @@
+-- Section 3 (intro to react)
+---- Part 1
+
+The main way of interacting with react on the site is through the app.js file located in src
+public folder has files that by default exist on the site, Logo, icons, favicon, index (which react modifies)
+
+With react, Javascript can import a css file in the index.js file
+
+<App /> runs the code in function App() in App.js file
+
+---- Part 2
